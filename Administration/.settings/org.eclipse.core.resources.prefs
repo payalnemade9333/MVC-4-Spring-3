@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/aartek/Interceptor=UTF-8
+encoding//src/main/java/com/aartek/Validator=UTF-8
+encoding//src/main/java/com/aartek/controller=UTF-8
+encoding//src/main/resources/registration_cn.properties=UTF-8
+encoding//src/main/resources/registration_hi.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/dispatcher-servlet.xml=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/product.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/registration.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/layout/baseLayout.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/layout/footer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/layout/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/layout/menu.jsp=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
